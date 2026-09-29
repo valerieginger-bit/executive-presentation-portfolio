@@ -1,8 +1,8 @@
 # Executive Presentation & Visual Communication Portfolio
 
-A portfolio demonstrating my experience in Microsoft PowerPoint presentation design, slide development, visual storytelling, information structuring, technical communication, and data visualization.
+A portfolio showcasing my experience in creating Microsoft PowerPoint presentations, designing slides, visual storytelling, structuring information, technical communication, and data visualization.
 
-My work includes presentations developed from scratch as well as projects where I improved existing visualizations and presentation structure. I focus on clarity, logical flow, visual hierarchy, consistency, and making complex information easier for an audience to understand.
+My work covers presentations created from scratch and projects where I improved existing presentations and visualizations. I strive for clarity, logical flow, visual hierarchy, consistency, and making complex information easier for an audience to understand.
 
 ## Featured Projects
 
