@@ -51,7 +51,57 @@ The project demonstrates the ability to organize research into a logical present
 
 ---
 
-### 3. The Process of Meiosis
+### 3. Role of Information Technology in Airline Business
+
+**Project Type:** Business & Technology Presentation  
+**Tools:** Microsoft PowerPoint  
+**Role:** Presentation Designer & Content Developer
+
+Developed a structured presentation explaining how information technology supports airline passenger services, reservations, operations, maintenance, flight safety, and future aviation systems.
+
+The presentation organizes technical and business information into clear sections covering the passenger journey, reservations and ticketing, fleet operations, crew scheduling, maintenance systems, flight-deck technology, and emerging technologies.
+
+**Key work completed:**
+- Structured business and technical information into a logical presentation flow
+- Designed slides explaining the airline passenger journey
+- Organized reservations, operations, maintenance, and safety systems visually
+- Used process-based layouts to simplify complex information
+- Maintained consistent typography, spacing, alignment, and visual hierarchy
+- Presented future technology trends in a clear and accessible format
+
+**Skills demonstrated:**  
+PowerPoint Design • Business Communication • Information Hierarchy • Process Visualization • Technology Communication • Visual Storytelling
+
+[View PowerPoint](./Role%20of%20IT%20in%20Airline%20Business.pptx)
+
+---
+
+### 4. Civil Rights & Redress (1877–2000)
+
+**Project Type:** Comparative Research Presentation  
+**Tools:** Microsoft PowerPoint  
+**Role:** Presentation Designer & Information Organizer
+
+Developed a comparative presentation examining the Japanese American Redress Movement and the Disability Rights Movement.
+
+The presentation organizes historical research through timelines, primary-source analysis, movement strategies, outcomes, and side-by-side comparison. Parallel visual structures were used to make similarities and differences easier to understand.
+
+**Key work completed:**
+- Created structured historical timelines
+- Organized complex research into concise presentation sections
+- Developed side-by-side comparisons of strategies and outcomes
+- Used primary-source material as supporting visual evidence
+- Created a comparison framework for rapid interpretation
+- Maintained consistent presentation structure and visual hierarchy
+
+**Skills demonstrated:**  
+Presentation Design • Comparative Visualization • Timeline Design • Information Architecture • Research Communication • Visual Storytelling
+
+[View PowerPoint](./Civil%20Rights%20%26%20Redress%20(1877-2000).pptx)
+
+---
+
+### 5. The Process of Meiosis
 
 **Project Type:** Presentation Visualization Enhancement  
 **Tools:** Microsoft PowerPoint  
